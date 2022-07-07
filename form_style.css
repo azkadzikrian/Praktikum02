@@ -1,0 +1,6 @@
+input:required{
+    border: dashed rgba(201, 117, 218, 0.995)
+}
+input:invalid{
+    border: solid rgba(120, 203, 209, 0.66)
+}
